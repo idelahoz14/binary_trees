@@ -24,7 +24,6 @@ int binary_tree_height_1(const binary_tree_t *tree)
 	{
 		return (count);
 	}
-
 	return (count2);
 }
 
